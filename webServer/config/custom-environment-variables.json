@@ -1,0 +1,10 @@
+{
+    "mysql": {
+        "username": "DB_USER",
+        "password": "DB_PASSWORD",
+        "database": "MYSQL_DATABASE",
+        "sequelize": {
+            "host": "MYSQL_HOST"
+        }
+    }
+}
